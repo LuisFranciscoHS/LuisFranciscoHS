@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @LuisFranciscoHS!
-- 🌱 I’m currently learning C++, .NET Core, Entity Framework and LINQ. :muscle:
-- I enjoy training the 🧠 with Competitive Programming. 
 - :fire::fire::fire: Enjoy projects for Health/Medical, Geographic or Astronomy Informatics. :revolving_hearts:
-- 📫 Reach me at: francisco.hernandez@knowit.no
+- 📫 Reach me at: luis.sanchez@uib.no
